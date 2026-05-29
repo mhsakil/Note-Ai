@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Document Backdrop Outline -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M34,24 L64,24 L74,34 L74,84 C74,86.2 72.2,88 70,88 L34,88 C31.8,88 30,86.2 30,84 L30,28 C30,25.8 31.8,24 34,24 Z" />
+    <path
+        android:fillColor="#0EA5E9"
+        android:pathData="M64,24 L74,34 L66,34 C64.9,34 64,33.1 64,32 L64,24 Z" />
+    <!-- Document Lines -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M38,40 L66,40 L66,44 L38,44 Z M38,48 L66,48 L66,52 L38,52 Z M38,56 L58,56 L58,60 L38,60 Z" />
+    <!-- Glowing AI Sparkle -->
+    <path
+        android:fillColor="#FB923C"
+        android:pathData="M70,50 C70,50 71,53 73,54 C71,55 70,58 70,58 C70,58 69,55 67,54 C69,53 70,50 70,50" />
+    <path
+        android:fillColor="#2DD4BF"
+        android:pathData="M75,64 C75,64 75.7,66.1 77.1,66.8 C75.7,67.5 75,69.6 75,69.6 C75,69.6 74.3,67.5 72.9,66.8 C74.3,66.1 75,64 75,64" />
+</vector>

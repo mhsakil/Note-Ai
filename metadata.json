@@ -1,0 +1,6 @@
+{
+  "name": "SmartNote Pro AI",
+  "description": "Enterprise-grade AI-powered Notebook and Knowledge Management application featuring smart editing, flashcards, semantic search, backlinks graph, and complete note analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
